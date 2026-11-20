@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "cc-lab-e20251458/lab3/index.html"
+        ],
+        "createdAt": "2026-11-20T05:28:10.774Z",
+        "reason": "lab3-instruction.md mandates this exact index.html content (white on #E05243 header); verbatim lab fixture, not a design choice"
+      }
+    ]
+  }
+}
